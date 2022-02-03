@@ -13,7 +13,7 @@ void draw(){
   //int to keep row count
   int count = 0;
   
-  //ints to constrain the Height of arc
+  //ints to constrain the height of arc
   int const_Arc_Height = constrain(mouseY/4, 0, 167);
   int const_Mini_Arc_Height = constrain(mouseY/64, 0, 10);
   
